@@ -1,9 +1,9 @@
-🌟 Projeto *e-quali*
+#🌟 Projeto *e-quali*
  
-📋 Descrição
+##📋 Descrição
 Bem-vindo ao repositório do projeto e-quali, desenvolvido pela equipe Inovetes (39) durante o Hacking.Rio 2024. Este projeto foi criado por um grupo talentoso de mulheres desenvolvedoras com o objetivo de educar a sociedade, corrigindo o vies machista nas frases e textos fornecidos.
 
-🚀 Funcionalidades
+##🚀 Funcionalidades
 **Para redação de textos - Visível**: 
   Corretor gramatical antimachista
   Sugerir textos mais inclusivos para vagas
@@ -16,14 +16,14 @@ Bem-vindo ao repositório do projeto e-quali, desenvolvido pela equipe Inovetes 
   Detectar cansaço e frustração em mulheres líderes
   Medir trabalho de preparação de equipe: quem garante a organização que permite a produtividade a longo prazo ser possível?
   
-🛠️ Tecnologias Utilizadas
+##🛠️ Tecnologias Utilizadas
 Linguagem de Programação: Python
 Bibliotecas: openai
 Framework: Bubble
 
-Ferramenta: Inteligencia Atirficial treinada para corrigir vieses machistas em frases, textos, etc.
+###Ferramenta: Inteligencia Atirficial treinada para corrigir vieses machistas em frases, textos, etc.
 
-👥 Equipe
+##👥 Equipe
 Nome 1 - Larris Nunes Lima (Desenvolvedora)
 Nome 2 - Maria Luiza Lima Bastos (Designer de UX/UI)
 Nome 3 - Marina Honda (Designer de UX/UI)
