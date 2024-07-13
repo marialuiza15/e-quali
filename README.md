@@ -1,5 +1,4 @@
 <h1 align="center">Projeto e-quali</h1>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <h3>📋 Descrição</h3>
 <!--ts-->
@@ -30,7 +29,7 @@
 
 <h3>Intslação necessária</h3>
 
-<pip install openai>
+pip install openai
 
 
 <h3>👥 Equipe</h3>
