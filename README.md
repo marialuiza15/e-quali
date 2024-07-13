@@ -3,7 +3,7 @@
 
 <!--ts-->
    
-   * [Tabela de Conteudo](#tabela-de-conteudo)
+
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
@@ -17,7 +17,7 @@
 
 <h3>📋 Descrição</h3>
 <!--ts-->
-  * Bem-vindo ao repositório do projeto e-quali, desenvolvido pela equipe Inovetes (39) durante o Hacking.Rio 2024. Este projeto foi criado por um grupo talentoso de mulheres desenvolvedoras com o objetivo de educar a sociedade, corrigindo o vies machista nas frases e textos fornecidos.
+   * Bem-vindo ao repositório do projeto e-quali, desenvolvido pela equipe Inovetes (39) durante o Hacking.Rio 2024. Este projeto foi criado por um grupo talentoso de mulheres desenvolvedoras com o objetivo de educar a sociedade, corrigindo o vies machista nas frases e textos fornecidos.
 <!--te-->
 
 <h3>🚀 Funcionalidades</h3>
