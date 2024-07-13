@@ -11,7 +11,7 @@
 > Helpful advice for doing things better or more easily.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> pip install openia
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
