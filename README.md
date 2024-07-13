@@ -29,9 +29,8 @@
 <!--te-->
 
 <h3>Intslação necessária</h3>
-```
+
 <pip install openai>
-```
 
 
 <h3>👥 Equipe</h3>
