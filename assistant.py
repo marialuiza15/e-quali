@@ -8,8 +8,6 @@ openai.api_key = 'chave'
 # modelo do GPT
 modelo = 'gpt-3.5-turbo'
 
-
-
 # mensagem de sistema com instruções personalizadas
 def create_system_message(instructions):
     return {
@@ -79,7 +77,7 @@ def main():
 
     while True:
         # Recebe uma mensagem do usuário
-        user_input = input("\nVoce: ")
+        user_input = input("\nVoce:")
         if user_input.lower() in ['sair', 'exit', 'quit', 'fim' , 'tchau', 'adeus']:
             print("Assistente: Até logo! :)")
             break
