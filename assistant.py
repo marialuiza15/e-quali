@@ -77,7 +77,8 @@ def main():
 
     while True:
         # Recebe uma mensagem do usuário
-        user_input = input("\nVoce:")
+        # user_input = input("\nVoce:")
+        user_input = "A equipe da AB InBev Analytics está procurando um cientista de dados motivado e analítico que queira fazer parte de um ambiente de estilo de startup."
         if user_input.lower() in ['sair', 'exit', 'quit', 'fim' , 'tchau', 'adeus']:
             print("Assistente: Até logo! :)")
             break
